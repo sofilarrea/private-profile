@@ -195,7 +195,7 @@ nav ul {
     position: absolute;
     width: 250px;
     left: 25%;
-    top: 27%;
+    top: 17%;
     height: 50%;
     display: flex;
     flex-direction: column;
@@ -217,8 +217,6 @@ nav ul {
 } 
 
 /* Section two*/
-
-
 
 .section-two {
     position: relative;
@@ -293,7 +291,7 @@ nav ul {
     padding: 10px;
     position: absolute;
     border-radius: 5px;
-    top: 38%;
+    top: 43%;
     left: 30%;
 }
 .moon{
@@ -325,7 +323,7 @@ nav ul {
     padding: 10px;
     position: absolute;
     border-radius: 5px;
-    top: 66%;
+    top: 73%;
     left: 3%;
 }
 
@@ -346,8 +344,11 @@ nav ul {
 }
 
 .dog{
-    width: 290px;
+    width: 180px;
     position: absolute;
+    top: 57%;
+    left: 0;
+
 }
 .frase{
     display: none;
@@ -364,7 +365,6 @@ nav ul {
 }
 .astronauta{
     display: none;
-
 }
 .ada-tutor{
     background-color: #000;
@@ -398,7 +398,12 @@ nav ul {
     top: 20%;
   
 }
-
+.box{
+    width: 190px;
+    position: absolute;
+    bottom: 0;
+    right: 15px;
+}
 /* Footer */
 .footer {
     background-color: var(--color-primary);
