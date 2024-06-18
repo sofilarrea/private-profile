@@ -147,7 +147,7 @@ nav ul {
     margin: 0 auto;   
     position: absolute;
     top: 20%;
-    left: 11%; 
+    left: 19%; 
     box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
 }
 .glass-effect{
@@ -194,7 +194,7 @@ nav ul {
 .section-one-text {
     position: absolute;
     width: 250px;
-    left: 25%;
+    left: 28%;
     top: 17%;
     height: 50%;
     display: flex;
@@ -354,7 +354,16 @@ nav ul {
     display: none;
 }
 .vans{
-    display: none;
+  position: absolute;
+  top: 34%;
+  right: 50px;
+  width: 338px;
+}
+.galaxy{
+    width: 300px;
+    position: absolute;
+    top: 67%;
+    right: 64px;
 }
 .ada-tutor figure img{
     width: 250px;

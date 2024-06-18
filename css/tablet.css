@@ -1,4 +1,3 @@
-
 /* ---------------------------------- */
 /* --------- Index Page ---------- */
 /* ---------------------------------- */
@@ -46,7 +45,11 @@
     width: 200px;
     right: 220%;
     left: auto;
-    top: 30%;
+    top: 23%;
+}
+.section-one-text{
+    left: 52%;
+    top: 13%;
 }
 
 .section-one-text p{
@@ -76,15 +79,10 @@
 .david{
     position: absolute;
     top: 60%;
-    width: 201px;
+    width: 266px;
     left: 44%;
 }
-.vans{
-    left: 57%;
-}
-.hands{
-    width: 190px;
-}
+
 .photo1{
     position: absolute;
     bottom: 3%;
